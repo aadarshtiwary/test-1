@@ -5,7 +5,7 @@ times = int(input('[.]Number of passwords?\n[.]'))
 length = int(input('[.]Password length?\n[.]'))
 
 f = open('aadarshtiwary/password.txt','w')
-how are u baby?
+maan jayenge..
 fine bro !!
 What's about you?
 
