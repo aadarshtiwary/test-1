@@ -6,6 +6,8 @@ length = int(input('[.]Password length?\n[.]'))
 
 f = open('aadarshtiwary/password.txt','w')
 how are u baby?
+fine bro !!
+What's about you?
 
 for i in range(times):
 	password = ''
